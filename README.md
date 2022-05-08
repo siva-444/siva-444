@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Mobile Application developer</h3>
 
 - 🌱 I’m currently learning **IOS application develpment**
 
