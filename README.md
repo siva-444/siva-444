@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
 <h3 align="center">A passionate Mobile Application developer</h3>
 
-- 🌱 I’m currently learning **IOS application develpment**
-
-- 💬 Ask me about **ReactJS & React Native, NodeJS, Laravel**
+- 💬 Ask me about **ReactJS & React Native, NodeJS, DevOPs**
 
 - 📫 How to reach me **siva444.sakthivel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w3RiJmEw2tOJat9pY9JN-e1UdtVIlkkI/view?usp=sharing](https://drive.google.com/file/d/1w3RiJmEw2tOJat9pY9JN-e1UdtVIlkkI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
