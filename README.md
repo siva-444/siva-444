@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">A passionate Mobile Application developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 - 💬 Ask me about **ReactJS & React Native, NodeJS, DevOPs**
 
