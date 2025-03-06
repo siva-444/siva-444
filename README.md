@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 💬 Ask me about **ReactJS & React Native, NodeJS, DevOPs**
+- 💬 Ask me about **ReactJS, React Native, NodeJS, DevOPs**
 
 - 📫 How to reach me **siva444.sakthivel@gmail.com**
 
