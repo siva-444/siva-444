@@ -1,75 +1,58 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">Versatile Full-Stack Developer | ReactJS • React Native • NodeJS • DevOps</h3>
+# Hi 👋, I'm Siva
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siva-444&label=Profile%20Views&color=0e75b6&style=flat" alt="siva-444" />
-  <a href="https://github.com/siva-444?tab=followers">
-    <img src="https://img.shields.io/github/followers/siva-444?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
+## Full Stack Developer | React • Node • DevOps
+
+![Profile views](https://komarev.com/ghpvc/?username=siva-444&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ### 💡 About Me
-- 🚀 6+ years of experience delivering end-to-end software solutions  
-- 💻 Passionate about **ReactJS, React Native, NodeJS, AWS, DevOps (Terraform & Ansible)**  
-- 🔧 Skilled in building **Single Page Applications (SPA)**, **Cross-Platform Apps**, and **RESTful APIs**  
-- 🌱 Constantly exploring **Cloud Infrastructure & AI integrations**  
-- 💬 Ask me about **Full-Stack Development & DevOps**  
+- 💻 Passionate about building scalable **Web & Mobile Apps**  
+- ⚡ Skilled in **ReactJS, React Native, NodeJS, DevOps**  
+- 🌱 Exploring **Cloud Infrastructure & Automation**  
 - 📫 Reach me at **siva444.sakthivel@gmail.com**
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/siva-s-14aab5173" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/16380802" target="blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow&style=flat" />
-  </a>
-</p>
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/siva-s-14aab5173)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/16380802)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
-ReactJS • React Native • JavaScript (ES15) • TypeScript • Redux/Redux Toolkit • TailwindCSS • Material UI • Jest/RTL  
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-**Backend & Databases:**  
-NodeJS • ExpressJS • MySQL • MongoDB  
+**Backend & Databases**  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps & Cloud:**  
-AWS • Ansible • Terraform • Jenkins • GitLab CI • Nginx • Apache  
+**DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Mobile:**  
-React Native • Android (Java - basic)
+**Mobile**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Android](https://img.shields.io/badge/Android_Java-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siva-444&show_icons=true&theme=tokyonight" alt="github-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siva-444&theme=tokyonight" alt="streak-stats" />
-</p>
-
----
-
-### 🏆 Achievements
-- Built and optimized **video recording & damage detection POC** using **TensorFlow & MediaPipe AI** in the browser  
-- Reduced **MySQL query execution time by 50%** for bulk data processing  
-- Mentored junior developers and enforced **best coding practices & frontend standards**  
-- Delivered **full-stack web & mobile applications** with seamless UX and security  
-
----
-
-### 📚 Education
-**Bachelor of Computer Applications (BCA)**  
-Madurai Kamaraj University, Madurai (2016 - 2019)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siva-444&show_icons=true&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=siva-444&theme=tokyonight)
 
 ---
 
 ⭐️ From [siva-444](https://github.com/siva-444)
-```
